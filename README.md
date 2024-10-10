@@ -1,0 +1,2 @@
+# Java exercise: “Le traducteur de chiffres romains”.
+Your customer has asked you to design a program capable of converting Arabic numerals (e.g. 1987) into Roman numerals (e.g. MCMLXXXVII). The program must ask the user for a number and then display its equivalent in Roman numerals.
